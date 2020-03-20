@@ -2600,7 +2600,7 @@ h6 {
 /* Start Testimonial Area css
 ============================================================================================ */
 .testimonial_area {
-  background: url(../img/testi-bg.jpg) no-repeat center; }
+  background: url(../img/testi-bg.png) no-repeat center; }
   @media (max-width: 991px) {
     .testimonial_area {
       background-image: none; }
